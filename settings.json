@@ -6,9 +6,9 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.17.1"
+    "ip": "EmperialRealm.ploudos.me",
+    "port": 16240,
+    "version": "1.16.5"
   },
 
   "position": {
